@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(0, 99, 212);
     font: normal 15pt arial;
 }
 
@@ -21,4 +21,8 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+div#ta {
+    padding-bottom: 10px;
 }
